@@ -1,0 +1,7 @@
+name: ArtesiaBackCommand
+version: 1.0.0
+author: Reetsila
+main: fr.reetsila.artesiabackcommand.Main
+commands:
+  back:
+    description: Retourner sur l'endroit de votre précédante mort
